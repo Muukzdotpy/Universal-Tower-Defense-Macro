@@ -10,7 +10,7 @@
 
 ## 📋 Description
 
-[Brief description of what this macro/tool does]
+Automation tool for Ultimate Tower Defense. Record and replay your tower placements and upgrade patterns. Features auto-replay detection, speed button automation, and camera alignment. Just record once, then let it farm for you.
 
 ---
 
