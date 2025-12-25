@@ -1,4 +1,4 @@
-# 🎮 Universal-Tower-Defense
+# 🎮 Universal-Tower-Defense-Macro
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
