@@ -98,7 +98,7 @@ You are **solely responsible** for:
 ## 📜 Copyright
 
 ```
-Copyright © 2025 [Developer]. All Rights Reserved.
+Copyright © 2025 Muukz. All Rights Reserved.
 Unauthorized copying, distribution, or reverse engineering is prohibited.
 ```
 
